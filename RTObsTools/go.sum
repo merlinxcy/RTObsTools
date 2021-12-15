@@ -1,0 +1,5 @@
+gitlab.com/mjwhitta/pathname v1.0.9/go.mod h1:89jSeygMgYX/2gzfrZ6nC9yV8tjVbYrmMd6hk6FaHf8=
+gitlab.com/mjwhitta/win v0.7.0 h1:hMnn5tka7ndDFV6lEzx/VjrSWE75sPAXuAYwcwgkUak=
+gitlab.com/mjwhitta/win v0.7.0/go.mod h1:U/ZOHuy1kDLb8JULUynmEBvPXISdRzCWdL8zJXJlp2g=
+golang.org/x/sys v0.0.0-20210906170528-6f6e22806c34 h1:GkvMjFtXUmahfDtashnc1mnrCtuBVcwse5QV2lUk/tI=
+golang.org/x/sys v0.0.0-20210906170528-6f6e22806c34/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
